@@ -1,0 +1,31 @@
+@font-face {
+	font-family: mainTitle;
+	src: url(font/FZShiDSJW_Te.TTF);
+}
+body {
+	background-color: lightskyblue;
+	background-size: 100%;
+	margin: 0;
+}
+.titleImage img {
+	width: 20%;
+	text-align: center;
+}
+.图形设计 img {
+	width: 80%;
+	margin: 0 auto;
+}
+h1 {
+	color: gold;
+	text-align: center;
+	font-family: mainTitle;
+}
+
+h2 {
+	font-family: mainTitle;
+	font-size: 3.5rem;
+	font-weight: 400;
+	text-align: center;
+	color: gold;
+	text-shadow: 0 0 10px gold;
+}
